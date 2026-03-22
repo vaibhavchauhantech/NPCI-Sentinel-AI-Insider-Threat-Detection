@@ -1,0 +1,5 @@
+npci-hack/
+__pycache__/
+*.pyc
+data/email.csv
+data/psychometric.csv
