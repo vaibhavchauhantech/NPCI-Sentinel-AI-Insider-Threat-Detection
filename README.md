@@ -10,7 +10,7 @@ NPCI Sentinel is a professional-grade Insider Threat Detection System designed t
 ![System Architecture Diagram](assets/architecture_diagram.png)
 
 ## 🚀 Key Features
-- **Two-Tier Detection Engine:** Combines Isolation Forests (Unsupervised ML) with Deep Autoencoders (Deep Learning) for maximum precision[cite: 53, 56].
+- **Two-Tier Detection Engine:** Combines Isolation Forests (Unsupervised ML) with Deep Autoencoders (Deep Learning) for maximum precision.
 - **Explainable AI (XAI):** Integrated **SHAP** values to provide human-readable reasons for every flagged anomaly.
 - **Privacy-First Design:** Full SHA-256 hashing of sensitive fields and AES-256 encryption logic.
 - **Interactive SOC Dashboard:** A Streamlit-based interface for security teams to monitor fleet risk and adjust detection sensitivity in real-time.
@@ -23,8 +23,8 @@ NPCI Sentinel is a professional-grade Insider Threat Detection System designed t
 - **Security:** Cryptography (SHA-256)
 
 ## 🛰️ Real-Time Scalability (Kafka Integration)
-To meet the requirements for **System Scalability**[cite: 36, 37], NPCI Sentinel includes a modular **Kafka-ready Ingestion Wrapper**. 
-- **Live Streaming:** The architecture supports direct connection to Kafka brokers for real-time log ingestion[cite: 61].
+To meet the requirements for **System Scalability**, NPCI Sentinel includes a modular **Kafka-ready Ingestion Wrapper**. 
+- **Live Streaming:** The architecture supports direct connection to Kafka brokers for real-time log ingestion.
 - **High Throughput:** Designed to process thousands of events per second by decoupling the Ingestion Layer from the Detection Engine.
 - **Microservices Ready:** The `src/ingestion.py` module allows Sentinel to function as a standalone security node within a larger SOC ecosystem.
 
