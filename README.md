@@ -38,7 +38,7 @@ To meet the requirements for **System Scalability**, NPCI Sentinel includes a mo
 - **Microservices Ready:** The `src/ingestion.py` module allows Sentinel to function as a standalone security node within a larger SOC ecosystem.
 
 ## ⚙️ Installation & Setup
-1. **Clone the Repo:** `git clone <your-repo-link>`
+1. **Clone the Repo:** `git clone https://github.com/vaibhavchauhantech/NPCI-Sentinel-AI-Insider-Threat-Detection.git`
 2. **Environment:** `python -m venv env` and `source env/bin/activate`
 3. **Dependencies:** `pip install -r requirements.txt`
 4. **Run Pipeline:** `python main_pipeline.py` (To process logs and train models)
