@@ -2,7 +2,16 @@
 
 **Developed by:** Vaibhav Chauhan (JK Lakshmipat University)  
 **Event:** Techkriti'26 | NPCI CyberSecurity Hackathon  
+---
 
+## 🚀 Live Demo & Access
+The functional prototype is deployed and available for real-time evaluation:
+
+* **Live App URL:** [https://npci-sentinel.streamlit.app/](https://npci-sentinel.streamlit.app/)
+* **Administrator ID:** `admin`
+* **Access Key:** `npci2026`
+
+---
 ## 📌 Project Overview
 NPCI Sentinel is a professional-grade Insider Threat Detection System designed to identify anomalous behavior within an organization using a hybrid AI approach. Unlike standard security tools, Sentinel correlates **System Logs** with **Psychometric Profiles (OCEAN)** to detect both intentional and unintentional security risks.
 
