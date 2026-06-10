@@ -1,6 +1,6 @@
 # 🛡️ NPCI Sentinel: AI-Powered Insider Threat Detection
 
-**Developed by:** Vaibhav Chauhan (JK Lakshmipat University)  
+**Developed by:** Vaibhav Chauhan  
 **Event:** Techkriti'26 | NPCI CyberSecurity Hackathon  
 ---
 
